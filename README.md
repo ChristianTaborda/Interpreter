@@ -1,2 +1,2 @@
 # Interpreter
-A simple interpreter developed in Racket with Objects and inquiries features
+A simple interpreter developed in Scheme with Objects and inquiries features
